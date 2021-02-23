@@ -1,1 +1,1 @@
-# NgocLoan-Ng
+# Algorithms
